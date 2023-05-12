@@ -28,7 +28,7 @@
 
 ## Wireframe
 
-![Wireframe of page layout] (./images/workshopwireframe.png)
+![Wireframe of page layout](./images/workshopwireframe.png)
 
 ## Approach
 
@@ -36,12 +36,12 @@
 
   - [ ] Home page
     - includes navigation links to other pages
-    - has at least two paragraphs of lorem
+    - has paragraphs of lorem
     - has stock images
     - links to javascript file
   - [ ] Activities page
     - includes a dropdown /<select> element
     - includes a listbox (/<select> element with a size attribute)
-    -
+    - section that displays activity details
 
-- Create
+- Create JS file
